@@ -1,2 +1,2 @@
 # Misc
-Random cheatsheets and utils in french
+Random notes, cheatsheets and utils in french
